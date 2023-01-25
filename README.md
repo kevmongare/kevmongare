@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Developer | Back End Developer
 ------------------------------------------
 
-Am currently enrolled in ALX Software Engineering cohort 12. I have background in Android App Development and am looking and am ready to push my limits and try out new Ideas in Tech world.
+Am currently enrolled in ALX Software Engineering cohort 12. I have background in Android App Development and am looking forward to collaborate learn and am ready to push my limits and try out new Ideas in Tech .
 
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [Llinkedin](http://www.linkedin.com/in/kevin-mongare-58b960200/)
