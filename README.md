@@ -1,6 +1,7 @@
 # Kevin Mongare
 
-## Data Engineer | Data Science | Analytics  
+## AI Engineer | Data Science & LLM Applications | Python, SQL, Machine Learning | Building AI Solutions for Africa
+
 
 Transforming raw data into actionable insights through scalable data systems and analytical workflows. Committed to building reliable data pipelines, improving data quality, and enabling data-driven decision-making.  
 
@@ -40,7 +41,8 @@ Transforming raw data into actionable insights through scalable data systems and
 - Data Engineering  
 - Data Science  
 - Analytics Engineering  
-- Data Analytics  
+- Data Analytics
+- AI
 
 ---
 
