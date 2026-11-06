@@ -1,55 +1,30 @@
 # Kevin Mongare
 
-## AI Engineer | Data Science & LLM Applications | Python, SQL, Machine Learning | Building AI Solutions for Africa
+### AI & Automation Engineer | Data Analytics | Building practical AI solutions for Africa
 
+I build AI agents, automations and data workflows that turn messy operational
+data into decisions. Co-founder & CTO at Prime Edge AI, and nearly four years
+in customer experience and CRM analytics at Jumia Kenya, so I build with real
+business problems in mind.
 
-Transforming raw data into actionable insights through scalable data systems and analytical workflows. Committed to building reliable data pipelines, improving data quality, and enabling data-driven decision-making.  
+## What I Build
+- AI agents and workflow automation for Kenyan SMEs (n8n, Claude API)
+- Dashboards and reporting pipelines (Google Apps Script, SQL, Excel)
+- Full-stack web apps (React, TypeScript, Tailwind, Supabase)
 
----
+## Tech Stack
+**Languages:** Python, SQL, TypeScript, JavaScript
+**Data:** PostgreSQL, Supabase, Pandas, Excel (advanced)
+**Automation & AI:** n8n, Claude API, Google Apps Script
+**Frontend:** React, Tailwind CSS
+**Tools:** Git, GitHub, Vercel, Netlify
 
-## Core Competencies
+## Selected Work
+- **Prime Edge AI**: AI agent and automation platform for SMEs, with a one-line outcome
+- **Jumia CX dashboards**: automated reporting for CX KPIs, with a one-line outcome
+- **TechyWorld AI**: websites and automations for small businesses
 
-### Data Engineering
-- ETL / ELT pipeline development (Airflow, Spark, Kafka)  
-- Data ingestion, transformation, and cleaning  
-- Data modeling and relational schema design  
-- SQL query optimization and performance tuning  
-- Data validation and quality assurance  
-- API-based data extraction  
-- Batch and streaming data processing  
+## Background
+BSc Computer Science, Kenya Highlands University · Based in Nairobi, Kenya
 
-### Data Science & Analytics
-- Exploratory Data Analysis (EDA) and feature engineering  
-- Statistical analysis and data preprocessing  
-- Data visualization (Matplotlib, Seaborn, Power BI)  
-- Business intelligence reporting  
-
----
-
-## Technical Stack
-
-**Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL  
-**Databases:** Postgres, MySQL, MongoDB  
-**Big Data & Workflow Tools:** Apache Spark, Airflow, Kafka, dbt  
-**Data Visualization & BI:** Power BI, Jupyter Notebook  
-**Backend & Integration:** Node.js, Express.js, REST APIs  
-**Dev Tools & Platforms:** Git, GitHub, Linux, Postman, Vercel, Netlify, Render  
-
----
-
-## Professional Focus
-- Data Engineering  
-- Data Science  
-- Analytics Engineering  
-- Data Analytics
-- AI
-
----
-
-## Connect
-[LinkedIn](https://www.linkedin.com/in/kevin-mongare) | [Portfolio](https://your-portfolio-link.com)  
-
----
-
-## GitHub Stats
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+[LinkedIn](https://www.linkedin.com/in/kevin-mongare) · [Portfolio](YOUR_REAL_LINK)
